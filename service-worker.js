@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/reactmemorygame/precache-manifest.f49e38f8abf081e910862d55e457919f.js"
+  "/ReactMemoryGame/precache-manifest.a27f0c7008fad79fe9f3e07dd85cd60e.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/reactmemorygame/index.html", {
+workbox.routing.registerNavigationRoute("/ReactMemoryGame/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
