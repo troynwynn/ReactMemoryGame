@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/ReactMemoryGame/static/js/runtime~main.5b9475f6.js"
   },
   {
-    "revision": "36322ef2d84e551d704e",
-    "url": "/ReactMemoryGame/static/js/main.18b812f5.chunk.js"
+    "revision": "b31a53bd61f9b8ac9fa2",
+    "url": "/ReactMemoryGame/static/js/main.59a5cbad.chunk.js"
   },
   {
     "revision": "dd0ed99a380f8d225736",
     "url": "/ReactMemoryGame/static/js/2.884c28c3.chunk.js"
   },
   {
-    "revision": "36322ef2d84e551d704e",
+    "revision": "b31a53bd61f9b8ac9fa2",
     "url": "/ReactMemoryGame/static/css/main.15553d2d.chunk.css"
   },
   {
-    "revision": "9dc5c358d7bfbef5fb39a5fc1c5638c7",
+    "revision": "c04aa9d94bcd0578d7cd8ac566dd1e1e",
     "url": "/ReactMemoryGame/index.html"
   }
 ];
