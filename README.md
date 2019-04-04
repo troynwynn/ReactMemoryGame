@@ -1,6 +1,6 @@
 # REACT MEMORY GAME: MARCH MADNESS EDITION
 
-### Deployed Application => [troynwynn.com/github.io/ReactMemoryGame](troynwynn.com/github.io/ReactMemoryGame)
+### Deployed Application => [troynwynn.com/github.io/ReactMemoryGame](troynwynn.com/github.io/ReactMemoryGame/)
 
 ##### Instructions:
 
