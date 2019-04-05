@@ -15,7 +15,7 @@
 #### Components
 
 * *Navbar* - holds the 
- ⋅⋅ 1. ""Click game to begin" list item that changes to (2) once the *gameStarted* state turns to true
+ ⋅⋅ 1. "Click game to begin" list item that changes to (2) once the *gameStarted* state turns to true
  ⋅⋅ 2. "You guessed correctly" / "You guessed correctly" list item that changes class based on the *gameOver* state
  ⋅⋅ 3. *Score* component changed based on the *gameOver* state toggling between true and false, increments based on *ClickCard* addClick functionality
  
@@ -62,7 +62,7 @@
     ├── index.css
     ├── index.js
     ├── logo.svg
-    ├── style.css
+    └──  style.css
 
 
 ```
