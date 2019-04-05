@@ -15,9 +15,9 @@
 #### Components
 
 * *Navbar* - holds the following conditional operations:
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. "Click game to begin" list item that changes to (2) once the *gameStarted* state turns to true
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. "You guessed correctly" / "You guessed correctly" list item that changes class based on the *gameOver* state
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3. *Score* component changed based on the *gameOver* state toggling between true and false, increments based on *ClickCard* addClick functionality
+    1. "Click game to begin" list item that changes to (2) once the *gameStarted* state turns to true
+    2. "You guessed correctly" / "You guessed correctly" list item that changes class based on the *gameOver* state
+    3. *Score* component changed based on the *gameOver* state toggling between true and false, increments based on *ClickCard* addClick functionality
  
  * *Header* - contains the game header, no state dependencies
  
