@@ -28,7 +28,7 @@
   * *Footer* - contains the game footer, no state dependencies
 
 ## Deployment
-* This app was deployed using github-pages. The deployed brach can be found [here](https://github.com/troynwynn/ReactMemoryGame/tree/gh-pages). 
+* This app was deployed using github-pages. The deployed brach can be found [here](https://github.com/troynwynn/ReactMemoryGame/tree/gh-pages)
 * Instructions on how to deploy to github-pages can be found [here](https://github.com/gitname/react-gh-pages)
 
 ## Required packages
