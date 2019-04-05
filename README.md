@@ -62,7 +62,7 @@
     ├── index.css
     ├── index.js
     ├── logo.svg
-    └──  style.css
+    └── style.css
 
 
 ```
