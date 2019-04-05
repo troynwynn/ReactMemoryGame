@@ -31,7 +31,7 @@
 * This app was deployed using github-pages. The deployed brach can be found [here](https://github.com/troynwynn/ReactMemoryGame/tree/gh-pages). 
 * Instructions on how to deploy to github-pages can be found [here](https://github.com/gitname/react-gh-pages)
 
-## Required packages & APIs
+## Required packages
 * [Create-React-App](https://reactjs.org/docs/create-a-new-react-app.html)
 
 ## Folder Tree
